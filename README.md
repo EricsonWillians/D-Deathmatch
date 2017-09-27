@@ -5,7 +5,7 @@ An open-source deathmatch game developed with dgame in the D Programming Languag
 * Leonardo Tada
 * Ericson Willians
 
-### Desiners
+### Designers
 * Ghost Human 0
 * Ghost Human 1
 * Ghost Human 2
